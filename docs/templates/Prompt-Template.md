@@ -16,6 +16,8 @@ Image Generation
 - Gemini
 - Gulf Picasso
 - Google Flow
+- Flowith AI
+- Arena AI
 ---
 
 ## Difficulty
