@@ -36,6 +36,7 @@ This section contains professional prompts for generating high-quality images us
 - Packaging
 - Advertising
 - Infographics
+- Educational
 
 ---
 
