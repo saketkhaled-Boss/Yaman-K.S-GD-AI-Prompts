@@ -13,7 +13,9 @@ Image Generation
 - Flux
 - Leonardo AI
 - Ideogram
-
+- Gemini
+- Gulf Picasso
+- Google Flow
 ---
 
 ## Difficulty
