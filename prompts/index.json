@@ -1,7 +1,19 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "",
-  "totalPrompts": 0,
-  "categories": [],
-  "prompts": []
+  "lastUpdated": "2026-08-03T22:58:10.566295Z",
+  "totalPrompts": 2,
+  "categories": [
+    "Book-Covers",
+    "Image-Generation"
+  ],
+  "prompts": [
+    {
+      "name": "Logo-Design",
+      "path": "prompts/Image-Generation/Logo-Design"
+    },
+    {
+      "name": "luxury-book-cover",
+      "path": "prompts/Image-Generation/Book-Covers/luxury-book-cover"
+    }
+  ]
 }
