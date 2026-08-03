@@ -1,0 +1,18 @@
+site_name: Yaman AI Prompts
+site_description: Professional Open-Source AI Prompt Library
+site_author: Khaled Saket
+repo_url: https://github.com/saketkhaled-Boss/Yaman-K.S-GD-AI-Prompts
+repo_name: Yaman-K.S-GD-AI-Prompts
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: blue
+      accent: cyan
+
+nav:
+  - Home: README.md
+  - Brand Identity: docs/Brand-Identity.md
+  - Image Generation: prompts/Image-Generation/README.md
