@@ -1,1 +1,24 @@
+title: Luxury Book Cover
+category: Book Covers
+type: Image Generation
 
+difficulty: Advanced
+
+author: K.S-GD
+
+license: MIT
+
+models:
+  - ChatGPT
+  - Midjourney
+  - Flux
+  - Leonardo AI
+  - Ideogram
+  - DALL-E
+
+tags:
+  - Book Cover
+  - Publishing
+  - Design
+  - AI
+  - Prompt
